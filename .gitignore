@@ -1,0 +1,13 @@
+*.iws
+*.war
+.classpath
+.DS_Store
+.project
+.settings
+/*.launch
+/*.tmproj
+/out/**
+/city-admin/target/stacktrace.log
+/city-core/target/stacktrace.log
+/city/target/stacktrace.log
+test/reports
